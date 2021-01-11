@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">SP 3 FragmentsTabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="animal_title">
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Cat</item>
+    </string-array>
+    <string-array name="animal_Image_Name">
+        <item>cat</item>
+        <item>cow</item>
+        <item>dog</item>
+        <item>horse</item>
+        <item>mice</item>
+        <item>monkey</item>
+        <item>parrot</item>
+        <item>rabbit</item>
+        <item>sheep</item>
+    </string-array>
+    <string-array name="animal_info">
+        <item>cat</item>
+        <item>cow</item>
+        <item>dog</item>
+        <item>horse</item>
+        <item>mice</item>
+        <item>monkey</item>
+        <item>parrot</item>
+        <item>rabbit</item>
+        <item>sheep</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
